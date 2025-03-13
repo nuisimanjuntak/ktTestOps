@@ -6,12 +6,12 @@
    <elementGuidId>75a78edc-c9fc-46dc-918c-feb143d8739c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='txt_visit_date']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#txt_visit_date</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='txt_visit_date']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>364c3ad4-4d93-440a-9e4a-41f6dcbe9683</webElementGuid>
+      <webElementGuid>0418db0a-8cdb-4cc1-823c-99395aa18cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b6b7ec03-5d35-46fe-9f34-5bb6147a7045</webElementGuid>
+      <webElementGuid>e0cfbd99-0c13-42f2-b0cf-089b4b18d1ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2fc03cf9-0b33-4cc4-b66d-b9c914688f4a</webElementGuid>
+      <webElementGuid>1a2863d1-7bf7-4464-a86f-ecb5c515c15a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_visit_date</value>
-      <webElementGuid>a693d72c-da8a-4097-8f33-65e6f8994ba3</webElementGuid>
+      <webElementGuid>afc6949b-b16a-4ea9-9911-787236cc0232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>visit_date</value>
-      <webElementGuid>dd8209b4-83e5-49e5-bf50-f18b83d5d2c1</webElementGuid>
+      <webElementGuid>0619db8c-2735-4054-b589-2449f81b7e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>354ed0c7-4d3e-427b-a827-300cbdad98c4</webElementGuid>
+      <webElementGuid>2052518e-57cb-462f-b6d0-fa13fe7f0bfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>5112b846-1ed3-470c-8c75-1f1882e23308</webElementGuid>
+      <webElementGuid>de7bb361-bc77-4d94-a199-385ae059de36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_visit_date&quot;)</value>
-      <webElementGuid>7dddcf69-10fe-4f4a-b886-4c8cc67eeba0</webElementGuid>
+      <webElementGuid>8b004e5c-4f64-4455-b77a-703cfee5c1e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_visit_date']</value>
-      <webElementGuid>cafc35f2-edd1-4ac5-b2b2-e422480f23a5</webElementGuid>
+      <webElementGuid>e5e3d343-0f7a-4967-afc7-a7744450ff31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[4]/div/div/input</value>
-      <webElementGuid>01164693-fd64-4941-b0e1-c5109a074d16</webElementGuid>
+      <webElementGuid>d5a5bf06-80ef-4dfd-9e92-75ade2ab8503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>2722b485-d599-46a6-a6d4-9187e474c5a4</webElementGuid>
+      <webElementGuid>94cbe6f9-c1c6-4fc3-8e93-92703c1316f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'txt_visit_date' and @name = 'visit_date' and @placeholder = 'dd/mm/yyyy']</value>
-      <webElementGuid>3cc084ae-9bc7-41fb-b2bd-bd7ac663e68b</webElementGuid>
+      <webElementGuid>fb377c12-4b10-4fd9-87d0-e17dc087e0f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

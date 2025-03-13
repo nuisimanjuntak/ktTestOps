@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_27</name>
+   <tag></tag>
+   <elementGuidId>0a7eb69b-bc97-4bf4-8e03-92de35a7eaf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[33]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;27&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>30cad3ee-4027-43d7-b2b8-b61a31ee7f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>5257c731-fba5-4e7c-aaed-e404fb851f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>fc6c93e0-8193-47c1-acae-d8eee15490c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>cb5a314b-559c-4c3c-bcbd-0c84d5e8d5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[33]</value>
+      <webElementGuid>142c2502-aeeb-4e48-91dd-fd1fc9600f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[33]</value>
+      <webElementGuid>6cbc3bd9-f3c1-4abf-9186-667c8049efd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[10]</value>
+      <webElementGuid>b9472606-ad49-4c5b-ae2e-e179d73e76a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[10]</value>
+      <webElementGuid>00a3ddb8-9f20-4da6-9e74-43932fcdbc4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[5]</value>
+      <webElementGuid>3fb37aae-33c7-4b0a-9196-10257ce04303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '27' or . = '27')]</value>
+      <webElementGuid>1844ce67-e7c4-4cd2-847b-4f6ca171280a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
